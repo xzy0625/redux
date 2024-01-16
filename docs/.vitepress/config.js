@@ -9,8 +9,8 @@ export default {
   themeConfig: {
     logo: "/images/logo.png", // 页面上显示的logo
     algolia: {
-      appId: 'W89ZSBPTZN', // algolia appid, 请自行前往申请 https://dashboard.algolia.com/account/plan/create?planName=grow
-      apiKey: '38d78106e5e486959bba0748b3378d84', // algolia apiKey, 请自行前往申请
+      appId: '0URKHID7AP', // algolia appid, 请自行前往申请 https://dashboard.algolia.com/account/plan/create?planName=grow
+      apiKey: 'd254cc181b9033775852a38514af4aa4', // algolia apiKey, 请自行前往申请
       indexName: 'redux', // algolia indexName, 请自行前往申请
       placeholder: '请输入关键词',
       buttonText: '搜索',
