@@ -1,6 +1,6 @@
 {
-  "index_name": "redux", // 填写Algolia索引
-  "start_urls": ["https://xzy0625.github.io/redux/"], // 填写页面部署之后的链接
+  "index_name": "redux",
+  "start_urls": ["https://xzy0625.github.io/redux/"],
   "rateLimit": 8,
   "maxDepth": 10,
   "selectors": {
