@@ -1,0 +1,31 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "csuxzy",
+  "description": "this is redux",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xzy0625/redux"
+  },
+  "keywords": [
+    "vitepress",
+    "blog",
+    "typescript",
+    "github pages"
+  ],
+  "devDependencies": {
+    "vitepress": "^1.0.0-beta.5"
+  },
+  "dependencies": {
+    "@giscus/vue": "^2.3.0",
+    "less": "^4.2.0",
+    "markdown-it": "^14.0.0"
+  }
+}
